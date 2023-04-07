@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Color</title>
+</head>
+
+<body style="background-color: rgb(5, 248, 37);">
+
+    <h1 style="background-color: white;">
+        style 속성을 이용한 배경색 변경
+        </h1>
+    <h1 style="color:maroon">
+        style 속성을 이용한 글자색 변경
+    </h1>
+    <h1 style="font-size: 250%">
+        style 속성을 이용한 글자 크기 변경
+    </h1>
+    <h1 style="text-align: center">
+        style 속성을 이용한 문단 정렬 변경
+    </h1>
+    <h1>a태그로 링크 걸기</h1>
+    <a href="http://www.hyangil.hs.kr/wah/main/index.htm">
+        <h2>이 링크를 클릭해 보세요!</h2>
+    </a>
+    <h1>페이지 책갈피</h1>
+    <a href="#bookmark"><p>제목 6로 갑시다!!!</p></a>
+
+    <h2>제목 1</h2>
+    <p>첫 번째 단락</p>
+
+    <h2>제목 2</h2>
+    <p>두 번째 단락</p>
+
+    <h2>제목 3</h2>
+    <p>세 번째 단락</p>
+
+    <h2>제목 4</h2>
+    <p>네 번째 단락</p>
+
+    <h2>제목 5</h2>
+    <p>다섯 번째 단락</p>
+
+    <h2>제목 6</h2>
+    <p>여섯 번째 단락</p>
+
+    <h2>제목 7</h2>
+    <p>일곱 번째 단락</p>
+
+    <h2>제목 8</h2>
+    <p>여덟 번째 단락</p>
+
+    <h2>제목 9</h2>
+    <p>아홉 번째 단락</p>
+
+    <h2>제목 10</h2>
+    <p>열 번째 단락</p>
+
+    <h2>제목 11</h2>
+    <p>열한 번째 단락</p>
+
+    <h2>제목 12</h2>
+    <p>열두 번째 단락</p>
+
+    <h1>span요소를 이용한 스타일 적용</h1>
+    <p>이렇게
+    <span style="border: 3px solid red">span요소로 텍스트의 일부분</span>
+    만을 따로 묶은 후에 스타일을 적용할 수 있습니다.</p>
+
+    <h1>버튼 입력</h1>
+    <button type="button" onclick="alert('버튼을 클릭하셨군요!')">버튼을 눌러주세요.</button>
+</body>
+</html>
+https://www.miricanvas.com/ko/v/11x8txe
